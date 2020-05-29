@@ -1,4 +1,4 @@
 # ColorBumpReplica
-Ege Yildirim's Test Projects
+Copycat of Color Bump 3D by Good Job Games
 
-USE LEFT AND RIGHT ARROW KEYS TO MOVE
+
